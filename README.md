@@ -1,0 +1,6 @@
+# smart-health-care-monitoring-system-using-IOT
+Present day's IoT brings the gadgets together and assumes a fundamental partin different methodologies like smart home mechanization, savvy urban areas, vehicleparking, traffic control, brilliant industries, smart environment, agribusiness fields and
+patient health monitoring system and so on. One of the approaches is to monitor the health state of the patient and screen it to doctors or paramedical staff through the IoT, as it is hard to screen the patient for 24 hours. So here the patient health condition or status i.e.Pulse rate, Respiratory rate, Body Temperature, Position of the body, Blood glucose, ECG
+and so on can be measured by utilizing the Non-invasive sensors. These sensors are associated with the Arduino Uno board, it gathers the information i.e. biomedical data from the sensors and the detected biomedical information can be transmitted to the server.
+The “Thingspeak” named new cloud is utilized here to place the detected information into the server. From this server the information can be envisioned to the specialists and other paramedical staff by Thingspeak android app. In this way by utilizing this Smart health
+monitoring system diminishes the exertion of specialists and paramedical staffs to screen the patient for 24 hours and furthermore lessens the time and cost of support.
